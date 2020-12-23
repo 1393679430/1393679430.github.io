@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6510017-8aa4-470a-88af-525ffaf6108c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/0.styles.2a717e15.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/0.styles.4b1b51bf.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/4.0d67d91e.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/4.3a8e2f8c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/5.a2100f86.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/5.838606d6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/app.7e320ecb.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.76438a1c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/angular/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/angular/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/angular/blog002.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/angular/blog002.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/angular/blog003.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/angular/blog003.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/angular/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/angular/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/js/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/js/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/js/blog002.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/js/blog002.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/js/blog003.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/js/blog003.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/miniprogram/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/miniprogram/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/miniprogram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/miniprogram/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/nb/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/nb/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/nb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/nb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/other/blog002.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/other/blog002.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/other/blog003.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/other/blog003.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/other/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/other/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/react/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/react/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/react/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/react/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/vue/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/vue/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/vue/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/blog/vuepress/blog001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/blog/vuepress/blog001.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/tools/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/tools/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/tools/tools001.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/tools/tools001.html" afterDir="false" />
-    </list>
+    <list default="true" id="e6510017-8aa4-470a-88af-525ffaf6108c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -55,7 +21,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="17">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,7 +116,7 @@
       <workItem from="1608540630274" duration="285000" />
       <workItem from="1608540937823" duration="454000" />
       <workItem from="1608541449897" duration="1470000" />
-      <workItem from="1608604190793" duration="2871000" />
+      <workItem from="1608604190793" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="修改： test">
       <created>1608541482745</created>
@@ -187,11 +153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608714045076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改： test">
+      <created>1608714516359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608714516359</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6855000" />
+    <option name="totallyTimeSpent" value="7362000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,7 +178,7 @@
   <component name="ToolWindowManager">
     <frame x="102" y="1103" width="1440" height="799" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79182154" visible="true" weight="0.26432666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79182154" visible="true" weight="0.26432666" />
       <window_info id="Structure" order="1" sideWeight="0.20817845" side_tool="true" weight="0.25716332" />
       <window_info id="Favorites" order="2" sideWeight="0.5018587" side_tool="true" weight="0.25716332" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -216,9 +189,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49856734" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.497851" visible="true" weight="0.6775106" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.497851" visible="true" weight="0.33521923" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.495702" weight="0.43281472" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502149" side_tool="true" visible="true" weight="0.6775106" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502149" side_tool="true" visible="true" weight="0.33521923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,7 +214,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
