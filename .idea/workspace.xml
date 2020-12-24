@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="102" />
-    <option name="y" value="1103" />
+    <option name="x" value="371" />
+    <option name="y" value="168" />
     <option name="width" value="1440" />
     <option name="height" value="799" />
   </component>
@@ -116,7 +116,7 @@
       <workItem from="1608540630274" duration="285000" />
       <workItem from="1608540937823" duration="454000" />
       <workItem from="1608541449897" duration="1470000" />
-      <workItem from="1608604190793" duration="3378000" />
+      <workItem from="1608604190793" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="修改： test">
       <created>1608541482745</created>
@@ -160,11 +160,18 @@
       <option name="project" value="LOCAL" />
       <updated>1608714516359</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改： test">
+      <created>1608716555822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608716555822</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7362000" />
+    <option name="totallyTimeSpent" value="7644000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
